@@ -1,0 +1,7 @@
+*.zip
+*.dll
+*.png
+*.jepg
+*.jpg
+build/
+generated/
